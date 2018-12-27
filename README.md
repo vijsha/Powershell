@@ -1,5 +1,5 @@
 # Powershell
-$groups = Get-Content C:\Users\Administrator\Desktop\groups.csv  
+$groups = Get-Content C:\Users\Administrator\Desktop\gp.csv  
             
 foreach($Group in $Groups) {            
             
